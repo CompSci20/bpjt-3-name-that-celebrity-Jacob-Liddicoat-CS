@@ -7,6 +7,7 @@ public class NameThatCelebrity
    String s1 ="Allan Alda";
    String s2 ="John Wayne";
    String s3 ="Gregory Peck";
+   String s4 =">>>";
    String s1part2 = s1.substring(2,7);
    String s2part2 = s2.substring(2,7);
    String s3part2 = s3.substring(2,9);
